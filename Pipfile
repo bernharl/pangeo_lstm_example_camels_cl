@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+jupyterlab = "*"
+torch = "*"
+pandas = "*"
+numba = "*"
+tqdm = "*"
+matplotlib = "*"
+gcsfs = "*"
+nb-black = "*"
+xlrd = "*"
+
+[requires]
+python_version = "3.8"
