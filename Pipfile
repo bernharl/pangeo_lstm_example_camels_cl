@@ -16,6 +16,7 @@ matplotlib = "*"
 gcsfs = "*"
 nb-black = "*"
 xlrd = "*"
+ipywidgets = "*"
 
 [requires]
 python_version = "3.8"
